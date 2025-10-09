@@ -1,52 +1,56 @@
 <h1 align="center">Hi there 👋, I'm Aiman Al Mahmud</h1>
+<h3 align="center">🌟 Laravel | Python | Full-Stack Developer | Open Source Enthusiast</h3>
+
 <p align="center">
-  💻 Developer | 🌐 Web Artisan | 🎯 Problem Solver  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Laravel+Expert;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
-
-- 👨‍💻 I’m a passionate programmer with experience in **C, C++, Java, and Python**.
-- 🌐 Skilled in **full-stack web development** using the **Laravel PHP framework**.
-- 🚀 Currently expanding my knowledge in modern **backend technologies**, **API development**, and **system design**.
-- 🤝 Always excited to collaborate on impactful projects and contribute to open-source.
+- 🏗 Founder of [AIELTS](http://aielts.org/)
+- 💻 Experienced in **C, C++, Java, Python, PHP, and JavaScript**
+- 🧩 Skilled in **Full-Stack Development (Laravel + MySQL + Blade)**
+- 🚀 Exploring **APIs**, **System Design**, and **DevOps Deployment**
+- 🤝 Passionate about **clean code**, **AI integration**, and **learning-driven projects**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-`C` `C++` `Java` `Python` `PHP` `JavaScript`
-
-**Frameworks & Tools:**  
-`Laravel` `MySQL` `Blade` `Bootstrap` `REST APIs`  
-`Git` `GitHub` `VS Code` `Postman` `Linux`
-
----
-
-### 🌱 Currently Learning
-
-- Advanced Laravel Ecosystem (Queues, Events, Testing)
-- Clean Code & Software Design Principles
-- DevOps Basics & Deployment Strategies
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-### 📫 How to Reach Me
-
-- 📧 Email: [aimanmahmud69@gmail.com](mailto:aimanmahmud69@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/aiman-al-mahmud-a7b333332](https://www.linkedin.com/in/aiman-al-mahmud-a7b333332/)
-- 🌍 Portfolio (coming soon)
-
----
-
-### ⚡ Fun Fact
-
-> I write code that not only works but tells a story. Clean. Efficient. Maintainable.
+### 🚀 Featured Projects
+- 🧠 [AIELTS](http://aielts.org/) — AI-based IELTS learning platform  
+- 🎓 E-Learning Web App — Laravel-based platform with video, quiz, and progress tracking  
+- 🛒 E-Commerce System — Cart, checkout, and order management in Laravel  
 
 ---
 
-<!---
-Aiman-Al-Mahmud/Aiman-Al-Mahmud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aiman-Al-Mahmud&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiman-Al-Mahmud&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="mailto:aimanmahmud69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aiman-al-mahmud-a7b333332/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Aiman-Al-Mahmud"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+> ✨ “I write code that not only works but tells a story — clean, efficient, and meaningful.”
