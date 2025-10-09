@@ -37,10 +37,24 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aiman-Al-Mahmud&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiman-Al-Mahmud&theme=tokyonight" />
+### 📊 GitHub Stats
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Aiman-Al-Mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aiman-Al-Mahmud&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=3600" alt="Aiman's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiman-Al-Mahmud&theme=tokyonight" alt="Aiman's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiman-Al-Mahmud&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+</p>
+
 
 ---
 
